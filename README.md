@@ -1,6 +1,6 @@
 #### 安装运行环境
 
-- 首先安装好node 的版本， https://nodejs.org/en/   安装最新的lts版本
+- 首先安装好node最新的lts版本  https://nodejs.org/en/
 
 #### 修改配置文件
 
