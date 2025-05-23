@@ -1,5 +1,5 @@
 #### 安装运行环境
-
+- [random names]https://randominfo.cn/random-names
 - 首先安装好node最新的lts版本  https://nodejs.org/en/
 
 #### 修改配置文件
