@@ -1,5 +1,8 @@
 #### 安装运行环境
 - [random names](https://randominfo.cn/random-names)
+- [emoji.red](https://www.google.com.hk/url?sa=j&url=https%3A%2F%2Femoji.red)
+- [emoji.red](https://emoji.red)
+- 
 - 首先安装好node最新的lts版本  https://nodejs.org/en/
 
 #### 修改配置文件
